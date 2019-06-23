@@ -1,1 +1,20 @@
-"start text file to file"
+"start text file: 
+A machine learning algorithm claims to predict heart attacks and death from heart disease with a degree of accuracy beating human practitioners.
+
+The algorithm claims to have a 90 percent accuracy. LogitBoost was trained on data from 950 chest pain patients –  from the data, 85 variables are calculated.
+
+Each of the patients have known outcomes after six years. Combined, this algorithm was able to identify patterns which indicates a higher chance of a heart attack or cardiac-related death.
+
+Study author Dr Luis Eduardo Juarez-Orozco, said these advances go beyond medicine.
+
+He said: “These advances are far beyond what has been done in medicine, where we need to be cautious about how we evaluate risk and outcomes.
+
+“We have the data but we are not using it to its full potential yet.”
+
+The findings were presented yesterday at the International Conference on Nuclear Cardiology and Cardiac CT (ICNC) in Lisbon, Portugal.
+
+Dr Juarez-Orozco said: “Humans have a very hard time thinking further than three dimensions or four dimensions.
+
+“The moment we jump into the fifth dimension we’re lost.
+
+“Our study shows that very high dimensional patterns are more useful than single dimensional patterns to predict outcomes in individuals and for that we need machine learning.”
